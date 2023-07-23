@@ -2,7 +2,7 @@ DIG xmake repository
 ====================
 [![License](https://img.shields.io/static/v1?label=license&message=CC%20BY-ND%204.0&color=blue)](https://creativecommons.org/licenses/by-nd/4.0/)
 
-This is a private xmake repository.
+This is a private xmake repository. You can use it as you need, but can not modify.
 
 Instalation
 ===========
