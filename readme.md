@@ -11,14 +11,14 @@ It is not recomended to install this repository as global, since your project ca
 1 - Per Project (recomended)
 ----------------------------
 ```lua
-add_repositories("dig-repo git@github.com:DIG-/cpp-xrepo.git")
+add_repositories("dig-repo https://github.com/DIG-/cpp-xrepo.git")
 ```
 Add above line before any `add_require` in your project `xmake.lua`.
 
 2 - Global
 ----------
 ```shell
-xmake repo -a dig-repo git@github.com:DIG-/cpp-xrepo.git
+xmake repo -a dig-repo https://github.com/DIG-/cpp-xrepo.git
 ```
 
 License
